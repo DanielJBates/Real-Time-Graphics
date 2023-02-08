@@ -1,0 +1,40 @@
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\SimulationImproved\Texture.h
+<c>OPT-13
+<b>Members '_mTextureSRV, _mTextureSampler' of class 'Texture' are declared in suboptimal order for memory layout
+<l>6
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\SimulationImproved\Texture.h
+<c>OOP-34
+<b>Check for assignment to self in operator= in class 'Texture'
+<l>34
+<k>19
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\SimulationImproved\Texture.h
+<c>CODSTA-CPP-06
+<b>Member function 'getSRV' returns handles to member data: '_mTextureSRV'
+<l>42
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\SimulationImproved\Texture.h
+<c>CODSTA-CPP-06
+<b>Member function 'getSampler' returns handles to member data: '_mTextureSampler'
+<l>47
+<k>3
+<s>false
+<N>
+<f>
+<L>0

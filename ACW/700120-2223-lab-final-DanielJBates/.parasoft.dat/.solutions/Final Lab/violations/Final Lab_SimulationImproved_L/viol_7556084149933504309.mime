@@ -1,0 +1,11 @@
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary=c4n1iwnDfNFyeXJm0B7BcGJxMKXZesF
+StorageVersion: v1
+
+--c4n1iwnDfNFyeXJm0B7BcGJxMKXZesF
+
+<?xml version='1.0' encoding='UTF-8'?><ResultsList path="Final Lab/SimulationImproved/Light.h"><VersionInfos><StorageInfo ownerId="com.parasoft.xtest.checkers.api.execution" resultId="IExecutionViolation" ver="2"/><StorageInfo ownerId="com.parasoft.xtest.checkers.api.execution" resultId="InsureViolation" ver="3"/><StorageInfo ownerId="com.parasoft.xtest.checkers.api.scope" resultId="IScopeProjectInfo" ver="3"/><StorageInfo ownerId="com.parasoft.xtest.checkers.api.standards" resultId="IMetricsViolation" ver="2"/><StorageInfo ownerId="com.parasoft.xtest.checkers.api.standards" resultId="IDupCodeViolation" ver="2"/><StorageInfo ownerId="com.parasoft.xtest.checkers.api.standards" resultId="IMetricEstimationInfo" ver="2"/><StorageInfo ownerId="com.parasoft.xtest.checkers.api.standards" resultId="IFlowAnalysisViolation" ver="2"/><StorageInfo ownerId="com.parasoft.xtest.checkers.api.standards" resultId="ICodingStandardsViolation" ver="2"/><StorageInfo ownerId="com.parasoft.xtest.checkers.api.generation" resultId="IGenerationInfo" ver="2"/><StorageInfo ownerId="com.parasoft.xtest.checkers.api.generation" resultId="IGenerationProjectInfo" ver="2"/></VersionInfos></ResultsList>
+--c4n1iwnDfNFyeXJm0B7BcGJxMKXZesF
+
+<?xml version='1.0' encoding='UTF-8'?><ResultInfo resultId="ICodingStandardsViolation" ownerId="com.parasoft.xtest.checkers.api.standards" violKeys="null;null"><StdViol msg="Do not overuse inheritance" ln="3" sev="5" auth="DBate" rule="OOP-37" tool="c++test" cat="OOP" lang="cpp" locType="sr" config="1" hash="380085998" locStartln="3" locStartPos="6" locEndLn="3" locEndPos="7" locFile="Final Lab/SimulationImproved/Light.h"/><StdViol msg="Member function 'getColour' returns handles to member data: '_mColour'" ln="12" sev="5" auth="DBate" rule="CODSTA-CPP-06-DOWNGRADED" tool="c++test" cat="CODSTA-CPP-06" lang="cpp" locType="sr" config="1" hash="380085998" locStartln="12" locStartPos="2" locEndLn="12" locEndPos="3" locFile="Final Lab/SimulationImproved/Light.h"/></ResultInfo>
+--c4n1iwnDfNFyeXJm0B7BcGJxMKXZesF--

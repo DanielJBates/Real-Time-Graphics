@@ -1,0 +1,40 @@
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\SimulationImproved\Light.h
+<c>OOP-37
+<b>Do not overuse inheritance
+<l>3
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\SimulationImproved\Light.h
+<c>CODSTA-CPP-06
+<b>Member function 'getColour' returns handles to member data: '_mColour'
+<l>12
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\SimulationImproved\GraphicalObject.h
+<c>CODSTA-CPP-06
+<b>Member function 'getInitalPosition' returns handles to member data: '_mInitialPosition'
+<l>21
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\SimulationImproved\GraphicalObject.h
+<c>CODSTA-CPP-06
+<b>Member function 'getCurrentPosition' returns handles to member data: '_mCurrentPosition'
+<l>29
+<k>3
+<s>false
+<N>
+<f>
+<L>0

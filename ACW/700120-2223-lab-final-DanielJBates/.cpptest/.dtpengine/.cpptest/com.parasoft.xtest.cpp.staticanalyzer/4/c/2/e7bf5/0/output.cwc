@@ -1,0 +1,40 @@
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\SimulationImproved\Voxel.h
+<c>CODSTA-MCPP-23
+<b>Class 'Voxel' should be final
+<l>4
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\SimulationImproved\D3DFramework.h
+<c>OPT-13
+<b>Members '_Projection, _View, _World, _pConstantBuffer, _pDepthStencil, _pDepthStencilView, _pImmediateContext, _pImmediateContext1, _pIndexBuffer, _pPixelShader, _pRenderTargetView, _pVertexBuffer, _pVertexLayout, _pVertexShader, _pd3dDevice, _pd3dDevice1, _swapChain, _swapChain1, rock' of class 'D3DFramework' are declared in suboptimal order for memory layout
+<l>38
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\SimulationImproved\Texture.h
+<c>OPT-13
+<b>Members '_mTextureSRV, _mTextureSampler' of class 'Texture' are declared in suboptimal order for memory layout
+<l>5
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\SimulationImproved\Texture.h
+<c>OOP-34
+<b>Check for assignment to self in operator= in class 'Texture'
+<l>29
+<k>19
+<s>false
+<N>
+<f>
+<L>0

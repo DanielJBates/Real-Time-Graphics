@@ -1,0 +1,240 @@
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\SimulationImproved\D3DFramework.h
+<c>STL-37
+<b>The '_pLights' array should not be used
+<l>74
+<k>25
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\SimulationImproved\Model.h
+<c>STL-37
+<b>The 'mLightPosition' array should not be used
+<l>13
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\SimulationImproved\Model.h
+<c>STL-37
+<b>The 'mLightColour' array should not be used
+<l>14
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\SimulationImproved\Shader.h
+<c>OOP-34
+<b>Check for assignment to self in operator= in class 'Shader'
+<l>34
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\SimulationImproved\Shader.h
+<c>CODSTA-CPP-06
+<b>Member function 'getVSBlob' returns handles to member data: '_mVSBlob'
+<l>44
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\SimulationImproved\Shader.h
+<c>CODSTA-CPP-06
+<b>Member function 'getPSBlob' returns handles to member data: '_mPSBlob'
+<l>49
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\SimulationImproved\Shader.h
+<c>CODSTA-CPP-06
+<b>Member function 'getVertexShader' returns handles to member data: '_mVertexShader'
+<l>54
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\SimulationImproved\Shader.h
+<c>CODSTA-CPP-06
+<b>Member function 'getPixelShader' returns handles to member data: '_mPixelShader'
+<l>59
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\SimulationImproved\D3DFramework.h
+<c>OPT-13
+<b>Members '_pCamera, _pConstantBuffer, _pDepthStencil, _pDepthStencilView, _pImmediateContext, _pImmediateContext1, _pIndexBuffer, _pLauncher, _pLavaRock, _pLights, _pPixelShader, _pRenderTargetView, _pRocket, _pRocketMetal, _pRocks, _pRustedMetal, _pTerrain, _pVertexBuffer, _pVertexLayout, _pVertexShader, _pd3dDevice, _pd3dDevice1, _swapChain, _swapChain1' of class 'D3DFramework' are declared in suboptimal order for memory layout
+<l>39
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\SimulationImproved\Texture.h
+<c>OPT-13
+<b>Members '_mTextureSRV, _mTextureSampler' of class 'Texture' are declared in suboptimal order for memory layout
+<l>6
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\SimulationImproved\Texture.h
+<c>OOP-34
+<b>Check for assignment to self in operator= in class 'Texture'
+<l>34
+<k>19
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\SimulationImproved\Texture.h
+<c>CODSTA-CPP-06
+<b>Member function 'getSRV' returns handles to member data: '_mTextureSRV'
+<l>42
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\SimulationImproved\Texture.h
+<c>CODSTA-CPP-06
+<b>Member function 'getSampler' returns handles to member data: '_mTextureSampler'
+<l>47
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\SimulationImproved\Camera.h
+<c>CODSTA-CPP-06
+<b>Member function 'getEye' returns handles to member data: '_mEye'
+<l>26
+<k>44
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\SimulationImproved\Camera.h
+<c>CODSTA-CPP-06
+<b>Member function 'getView' returns handles to member data: '_mView'
+<l>28
+<k>45
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\SimulationImproved\Camera.h
+<c>CODSTA-CPP-06
+<b>Member function 'getProjection' returns handles to member data: '_mProjection'
+<l>29
+<k>51
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\SimulationImproved\Light.h
+<c>OOP-37
+<b>Do not overuse inheritance
+<l>3
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\SimulationImproved\Light.h
+<c>CODSTA-CPP-06
+<b>Member function 'getColour' returns handles to member data: '_mColour'
+<l>12
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\SimulationImproved\GraphicalObject.h
+<c>CODSTA-CPP-06
+<b>Member function 'getInitalPosition' returns handles to member data: '_mInitialPosition'
+<l>21
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\SimulationImproved\GraphicalObject.h
+<c>CODSTA-CPP-06
+<b>Member function 'getCurrentPosition' returns handles to member data: '_mCurrentPosition'
+<l>29
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\SimulationImproved\Model.h
+<c>OOP-34
+<b>Check for assignment to self in operator= in class 'Model'
+<l>49
+<k>17
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\SimulationImproved\Model.h
+<c>CODSTA-CPP-06
+<b>Member function 'getCB' returns handles to member data: '_mCB'
+<l>58
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\SimulationImproved\Model.h
+<c>CODSTA-CPP-06
+<b>Member function 'getTexture' returns handles to member data: '_mTexture'
+<l>63
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\SimulationImproved\Model.h
+<c>CODSTA-CPP-06
+<b>Member function 'getCurrentRotation' returns handles to member data: '_mCurrentRotation'
+<l>78
+<k>3
+<s>false
+<N>
+<f>
+<L>0

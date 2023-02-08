@@ -1,0 +1,670 @@
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-11
+<b>C-style cast is used
+<l>146
+<k>40
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-11
+<b>C-style cast is used
+<l>146
+<k>48
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-11
+<b>C-style cast is used
+<l>146
+<k>48
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-11
+<b>C-style cast is used
+<l>152
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-11
+<b>C-style cast is used
+<l>163
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-11
+<b>C-style cast is used
+<l>167
+<k>11
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-11
+<b>C-style cast is used
+<l>198
+<k>11
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-11
+<b>C-style cast is used
+<l>207
+<k>14
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-11
+<b>C-style cast is used
+<l>238
+<k>15
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-11
+<b>C-style cast is used
+<l>271
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-11
+<b>C-style cast is used
+<l>556
+<k>11
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>STL-37
+<b>The 'driverTypes' array should not be used
+<l>219
+<k>19
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>STL-37
+<b>The 'featureLevels' array should not be used
+<l>226
+<k>21
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>STL-37
+<b>The 'layout' array should not be used
+<l>317
+<k>28
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>STL-37
+<b>The 'vertices' array should not be used
+<l>434
+<k>16
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>STL-37
+<b>The 'indices' array should not be used
+<l>484
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-63
+<b>Variable 'm_rasterState' of pointer type is initialized with '0'
+<l>528
+<k>42
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-MCPP-04
+<b>Prefer 'nullptr' to '0' as the null pointer value
+<l>528
+<k>42
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-02
+<b>In class D3DFramework: return type of operator= is not a non-const reference to it's class' type
+<l>69
+<k>23
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-02
+<b>In class D3DFramework: return type of operator= is not a non-const reference to it's class' type
+<l>70
+<k>23
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-MCPP-23
+<b>Class 'D3DFramework' should be final
+<l>41
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>OPT-13
+<b>Members '_Projection, _View, _World, _pConstantBuffer, _pImmediateContext, _pImmediateContext1, _pIndexBuffer, _pPixelShader, _pRenderTargetView, _pVertexBuffer, _pVertexLayout, _pVertexShader, _pd3dDevice, _pd3dDevice1, _swapChain, _swapChain1' of class 'D3DFramework' are declared in suboptimal order for memory layout
+<l>41
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>OPT-18
+<b>In class 'D3DFramework' inline function 'initDevice' contains loops
+<l>205
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-51
+<b>Inline function 'D3DFramework' was found in source file
+<l>66
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>OPT-33
+<b>Returned value from function '=' is passed by value
+<l>69
+<k>23
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>OPT-33
+<b>Returned value from function '=' is passed by value
+<l>70
+<k>23
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'hWnd' as const
+<l>75
+<k>40
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'message' as const
+<l>75
+<k>51
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'wParam' as const
+<l>75
+<k>67
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'lParam' as const
+<l>75
+<k>82
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-51
+<b>Inline function 'initWindow' was found in source file
+<l>136
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'hInstance' as const
+<l>136
+<k>31
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'nCmdShow' as const
+<l>136
+<k>46
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'szFileName' as const
+<l>176
+<k>52
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'szEntryPoint' as const
+<l>176
+<k>71
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'szShaderModel' as const
+<l>176
+<k>92
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'ppBlobOut' as const
+<l>176
+<k>118
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-51
+<b>Inline function 'initDevice' was found in source file
+<l>205
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'width' as const
+<l>211
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'height' as const
+<l>212
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'stride' as const
+<l>457
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'offset' as const
+<l>458
+<k>8
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'Eye' as const
+<l>548
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'At' as const
+<l>549
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'Up' as const
+<l>550
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-51
+<b>Inline function '~D3DFramework' was found in source file
+<l>563
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-51
+<b>Inline function 'render' was found in source file
+<l>577
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'cb' as const
+<l>604
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'hInstance' as const
+<l>637
+<k>36
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Simulation.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'nShowCmd' as const
+<l>637
+<k>76
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Resource.h
+<c>PFO-08
+<b>Whole code in file should be secured from multiple inclusion
+<l>20
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Resource.h
+<c>CODSTA-03
+<b>Define constant 'IDS_APP_TITLE' using 'const' or 'enum' instead of '#define'
+<l>6
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Resource.h
+<c>CODSTA-03
+<b>Define constant 'IDR_MAINFRAME' using 'const' or 'enum' instead of '#define'
+<l>8
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Resource.h
+<c>CODSTA-03
+<b>Define constant 'IDD_GALLERY_DIALOG' using 'const' or 'enum' instead of '#define'
+<l>9
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Resource.h
+<c>CODSTA-03
+<b>Define constant 'IDD_ABOUTBOX' using 'const' or 'enum' instead of '#define'
+<l>10
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Resource.h
+<c>CODSTA-03
+<b>Define constant 'IDM_ABOUT' using 'const' or 'enum' instead of '#define'
+<l>11
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Resource.h
+<c>CODSTA-03
+<b>Define constant 'IDM_EXIT' using 'const' or 'enum' instead of '#define'
+<l>12
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Resource.h
+<c>CODSTA-03
+<b>Define constant 'IDI_GALLERY' using 'const' or 'enum' instead of '#define'
+<l>13
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Resource.h
+<c>CODSTA-03
+<b>Define constant 'IDI_SMALL' using 'const' or 'enum' instead of '#define'
+<l>14
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Resource.h
+<c>CODSTA-03
+<b>Define constant 'IDC_SIMULATION' using 'const' or 'enum' instead of '#define'
+<l>15
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Resource.h
+<c>CODSTA-03
+<b>Define constant 'IDC_MYICON' using 'const' or 'enum' instead of '#define'
+<l>16
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Resource.h
+<c>CODSTA-03
+<b>Define constant 'IDC_STATIC' using 'const' or 'enum' instead of '#define'
+<l>17
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Resource.h
+<c>CODSTA-03
+<b>Define constant '_APS_NO_MFC' using 'const' or 'enum' instead of '#define'
+<l>23
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Resource.h
+<c>CODSTA-03
+<b>Define constant '_APS_NEXT_RESOURCE_VALUE' using 'const' or 'enum' instead of '#define'
+<l>24
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Resource.h
+<c>CODSTA-03
+<b>Define constant '_APS_NEXT_COMMAND_VALUE' using 'const' or 'enum' instead of '#define'
+<l>25
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Resource.h
+<c>CODSTA-03
+<b>Define constant '_APS_NEXT_CONTROL_VALUE' using 'const' or 'enum' instead of '#define'
+<l>26
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\ACW\700120-2223-lab-final-DanielJBates\Simulation\Resource.h
+<c>CODSTA-03
+<b>Define constant '_APS_NEXT_SYMED_VALUE' using 'const' or 'enum' instead of '#define'
+<l>27
+<k>-1
+<s>false
+<N>
+<f>
+<L>0

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <FxCompile Include="Simulation.fx" />
+    <FxCompile Include="Simulation_PS.hlsl" />
+    <FxCompile Include="Simulation_VS.hlsl" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="D3DFramework.cpp" />
+    <ClCompile Include="Simulation.cpp" />
+    <ClCompile Include="Camera.cpp" />
+    <ClCompile Include="Cube.cpp" />
+    <ClCompile Include="Cylinder.cpp" />
+    <ClCompile Include="Sphere.cpp" />
+    <ClCompile Include="Rocket.cpp" />
+    <ClCompile Include="Model.cpp" />
+    <ClCompile Include="GraphicalObject.cpp" />
+    <ClCompile Include="Texture.cpp" />
+    <ClCompile Include="Shader.cpp" />
+    <ClCompile Include="Light.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D3DFramework.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="Camera.h" />
+    <ClInclude Include="Cube.h" />
+    <ClInclude Include="Cylinder.h" />
+    <ClInclude Include="Sphere.h" />
+    <ClInclude Include="Rocket.h" />
+    <ClInclude Include="Model.h" />
+    <ClInclude Include="GraphicalObject.h" />
+    <ClInclude Include="Texture.h" />
+    <ClInclude Include="Shader.h" />
+    <ClInclude Include="Light.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Simulation.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Simulation.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>

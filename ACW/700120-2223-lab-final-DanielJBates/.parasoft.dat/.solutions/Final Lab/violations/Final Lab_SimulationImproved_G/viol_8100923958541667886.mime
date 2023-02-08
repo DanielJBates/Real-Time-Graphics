@@ -1,0 +1,11 @@
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary=y3WYA9IJtY1Zs2G3M1rh7qz7ZBTTR0PIlJ
+StorageVersion: v1
+
+--y3WYA9IJtY1Zs2G3M1rh7qz7ZBTTR0PIlJ
+
+<?xml version='1.0' encoding='UTF-8'?><ResultsList path="Final Lab/SimulationImproved/GraphicalObject.h"><VersionInfos><StorageInfo ownerId="com.parasoft.xtest.checkers.api.execution" resultId="IExecutionViolation" ver="2"/><StorageInfo ownerId="com.parasoft.xtest.checkers.api.execution" resultId="InsureViolation" ver="3"/><StorageInfo ownerId="com.parasoft.xtest.checkers.api.scope" resultId="IScopeProjectInfo" ver="3"/><StorageInfo ownerId="com.parasoft.xtest.checkers.api.standards" resultId="IMetricsViolation" ver="2"/><StorageInfo ownerId="com.parasoft.xtest.checkers.api.standards" resultId="IDupCodeViolation" ver="2"/><StorageInfo ownerId="com.parasoft.xtest.checkers.api.standards" resultId="IMetricEstimationInfo" ver="2"/><StorageInfo ownerId="com.parasoft.xtest.checkers.api.standards" resultId="IFlowAnalysisViolation" ver="2"/><StorageInfo ownerId="com.parasoft.xtest.checkers.api.standards" resultId="ICodingStandardsViolation" ver="2"/><StorageInfo ownerId="com.parasoft.xtest.checkers.api.generation" resultId="IGenerationInfo" ver="2"/><StorageInfo ownerId="com.parasoft.xtest.checkers.api.generation" resultId="IGenerationProjectInfo" ver="2"/></VersionInfos></ResultsList>
+--y3WYA9IJtY1Zs2G3M1rh7qz7ZBTTR0PIlJ
+
+<?xml version='1.0' encoding='UTF-8'?><ResultInfo resultId="ICodingStandardsViolation" ownerId="com.parasoft.xtest.checkers.api.standards" violKeys="null;null"><StdViol msg="Member function 'getInitalPosition' returns handles to member data: '_mInitialPosition'" ln="21" sev="5" auth="DBate" rule="CODSTA-CPP-06-DOWNGRADED" tool="c++test" cat="CODSTA-CPP-06" lang="cpp" locType="sr" config="1" hash="-1429473830" locStartln="21" locStartPos="2" locEndLn="21" locEndPos="3" locFile="Final Lab/SimulationImproved/GraphicalObject.h"/><StdViol msg="Member function 'getCurrentPosition' returns handles to member data: '_mCurrentPosition'" ln="29" sev="5" auth="DBate" rule="CODSTA-CPP-06-DOWNGRADED" tool="c++test" cat="CODSTA-CPP-06" lang="cpp" locType="sr" config="1" hash="-1429473830" locStartln="29" locStartPos="2" locEndLn="29" locEndPos="3" locFile="Final Lab/SimulationImproved/GraphicalObject.h"/></ResultInfo>
+--y3WYA9IJtY1Zs2G3M1rh7qz7ZBTTR0PIlJ--
