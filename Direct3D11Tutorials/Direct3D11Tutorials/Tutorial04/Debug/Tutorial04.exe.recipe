@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\Real Time Graphics\Direct3D11Tutorials\Direct3D11Tutorials\Debug\Tutorial04.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\Real Time Graphics\Direct3D11Tutorials\Direct3D11Tutorials\Debug\BumpPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\Real Time Graphics\Direct3D11Tutorials\Direct3D11Tutorials\Debug\BumpVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\Real Time Graphics\Direct3D11Tutorials\Direct3D11Tutorials\Debug\TextureShaderPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\Real Time Graphics\Direct3D11Tutorials\Direct3D11Tutorials\Debug\TextureShaderVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\Real Time Graphics\Direct3D11Tutorials\Direct3D11Tutorials\Debug\Tutorial04_PS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\Real Time Graphics\Direct3D11Tutorials\Direct3D11Tutorials\Debug\Tutorial04_VS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\Real Time Graphics\Direct3D11Tutorials\Direct3D11Tutorials\Debug\VS2.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\Real Time Graphics\Direct3D11Tutorials\Direct3D11Tutorials\Debug\VS3.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\DBate\Documents\Uni-Programming-Projects\Year 4 Term 1\Real Time Graphics\Direct3D11Tutorials\Direct3D11Tutorials\Debug\VS4.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

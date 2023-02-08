@@ -1,0 +1,10 @@
+^D:\GITHUB\UNI-PROJECTS\YEAR 4 TERM 1\ACW\ASSIMP-5.2.5\BUILD\CMAKEFILES\3B0C34670B8DED0973FC2E17FC34D9F0\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/GitHub/Uni-Projects/Year 4 Term 1/ACW/assimp-5.2.5" "-BD:/GitHub/Uni-Projects/Year 4 Term 1/ACW/assimp-5.2.5/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/GitHub/Uni-Projects/Year 4 Term 1/ACW/assimp-5.2.5/build/Assimp.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

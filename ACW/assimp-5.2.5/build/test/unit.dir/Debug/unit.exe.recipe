@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\GitHub\Uni-Projects\Year 4 Term 1\ACW\assimp-5.2.5\build\x64\Debug\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\GitHub\Uni-Projects\Year 4 Term 1\ACW\assimp-5.2.5\build\bin\Debug\assimp-vc142-mtd.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\GitHub\Uni-Projects\Year 4 Term 1\ACW\assimp-5.2.5\build\bin\Debug\unit.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

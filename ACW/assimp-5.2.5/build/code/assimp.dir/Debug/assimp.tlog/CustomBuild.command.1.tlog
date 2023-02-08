@@ -1,0 +1,10 @@
+^D:\GITHUB\UNI-PROJECTS\YEAR 4 TERM 1\ACW\ASSIMP-5.2.5\CODE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/GitHub/Uni-Projects/Year 4 Term 1/ACW/assimp-5.2.5" "-BD:/GitHub/Uni-Projects/Year 4 Term 1/ACW/assimp-5.2.5/build" --check-stamp-file "D:/GitHub/Uni-Projects/Year 4 Term 1/ACW/assimp-5.2.5/build/code/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
