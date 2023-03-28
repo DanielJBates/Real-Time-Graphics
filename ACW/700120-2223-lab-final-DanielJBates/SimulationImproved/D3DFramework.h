@@ -72,6 +72,14 @@ class D3DFramework final {
 	std::unique_ptr<Rocket> _pRocket;
 
 	std::unique_ptr<Light> _pLights[2];
+
+	LARGE_INTEGER _oldTime;
+	LARGE_INTEGER _currentTime;
+	LARGE_INTEGER _frequency;
+
+	double _deltaTime;
+
+	double _playbackSpeed;
 	
 	static std::unique_ptr<D3DFramework> _instance;
 public:

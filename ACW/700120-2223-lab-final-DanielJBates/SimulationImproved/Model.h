@@ -68,6 +68,12 @@ public:
 		_mInitialRotation = pRotation;
 	}
 
+
+	const DirectX::XMVECTOR& getInitialRotation() const
+	{
+		return _mInitialRotation;
+	}
+
 	void setCurrentRotation(const DirectX::XMVECTOR& pRotation)
 	{
 		_mCurrentRotation = pRotation;

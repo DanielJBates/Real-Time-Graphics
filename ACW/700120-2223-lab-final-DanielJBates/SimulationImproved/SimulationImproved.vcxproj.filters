@@ -39,7 +39,4 @@
   <ItemGroup>
     <Image Include="Simulation.ico" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="ClassDiagram.cd" />
-  </ItemGroup>
 </Project>

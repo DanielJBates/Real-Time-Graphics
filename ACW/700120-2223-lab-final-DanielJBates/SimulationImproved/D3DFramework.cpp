@@ -15,7 +15,7 @@ std::unique_ptr<D3DFramework> D3DFramework::_instance = std::make_unique<D3DFram
 LRESULT CALLBACK D3DFramework::wndProc(const HWND hWnd, const UINT message, const WPARAM wParam, const LPARAM lParam) {
 	PAINTSTRUCT ps;
 	std::string msg;
-	const auto& app = D3DFramework::getInstance();
+	auto& app = D3DFramework::getInstance();
 	
 	switch (message) {
 	case WM_PAINT:
@@ -89,12 +89,14 @@ LRESULT CALLBACK D3DFramework::wndProc(const HWND hWnd, const UINT message, cons
 			if (GetKeyState(VK_SHIFT) < 0)
 			{
 				//increase time speed
-				app._pRocket->increaseSpeed();
+				app._playbackSpeed += 0.1;
+				//app._pRocket->increaseSpeed();
 			}
 			else
 			{
 				//decrease time speed
-				app._pRocket->decreaseSpeed();
+				app._playbackSpeed -= 0.1;
+				//app._pRocket->decreaseSpeed();
 			}
 			break;
 		case 'R':
@@ -553,13 +555,13 @@ HRESULT D3DFramework::initDevice()
 	//_pLights[1] = Light(XMVectorSet(0.0f, -10.0f, 10.0f, 0.0f), XMVectorSet(0.941f, 0.986f, 0.990f, 1.0f)); //Moon
 
 	// Create Terrain
-	for (int x = 0; x < 40; x++)
+	for (int x = 0; x < 60; x++)
 	{
 		for (int y = 0; y < 10; y++)
 		{
 			for (int z = 0; z < 20; z++)
 			{
-				XMVECTOR cubePos = XMVectorSet(-10.0f + 0.5f * x, -5.0f + 0.5f * y, -5.0f + 0.5f * z, 0.0f);
+				XMVECTOR cubePos = XMVectorSet(-15.0f + 0.5f * x, -5.0f + 0.5f * y, -5.0f + 0.5f * z, 0.0f);
 				XMVECTOR cubeScale = XMVectorSet(0.25f, 0.25f, 0.25f, 0.0f);
 				XMVECTOR cubeRotation = XMVectorSet(0.0f, 0.0f, 0.0f, 0.0f);
 				_pTerrain.push_back(std::make_unique<Cube>(cubePos, cubeScale, cubeRotation, *_pRocks));
@@ -595,6 +597,12 @@ HRESULT D3DFramework::initDevice()
 	// Initialize the projection matrix
 	_pCamera->setProjection(XMMatrixPerspectiveFovLH(XM_PIDIV2, width / static_cast<FLOAT>(height), 0.01f, 100.0f));
 
+	_playbackSpeed = 1.0;
+
+	QueryPerformanceFrequency(&_frequency);
+	QueryPerformanceCounter(&_currentTime);
+	_oldTime = _currentTime;
+
 	return S_OK;
 }
 
@@ -627,14 +635,18 @@ void D3DFramework::render() {
 	// Animate
 	//
 
+	QueryPerformanceCounter(&_currentTime);
+	_deltaTime = double(_currentTime.QuadPart - _oldTime.QuadPart) / double(_frequency.QuadPart);
+	_oldTime = _currentTime;
+
 	_pRocket->setInitialRotation(_pLauncher->getCurrentRotation());
-	_pRocket->update();
+	_pRocket->update((_deltaTime * _playbackSpeed));
 
 	_pCamera->updateView();
 
 	for (int i = 0; i < 2; i++)
 	{
-		_pLights[i]->rotate(XMVectorSet(0.005f, 0.0f, 0.0f, 0.0f));
+		_pLights[i]->rotate(XMVectorSet(0.174533f * (_deltaTime * _playbackSpeed), 0.0f, 0.0f, 0.0f));
 	}
 
 	//
